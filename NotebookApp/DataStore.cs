@@ -19,7 +19,8 @@ namespace NotebookApp
         new Note{ Id=1, Description="Her insanın bir öyküsü vardır."},
         new Note{ Id=2, Description="Kibarlık, ruhun görkemidir."},
         new Note{ Id=3, Description="Bir gökyüzü dinleniyor içimizde."},
-        new Note{ Id=4, Description="Ruhum düşte kanatlandı."}
+        new Note{ Id=4, Description="Ruhum düşte kanatlandı."},
+        new Note{ Id=5, Description="Ruhum düşte kanatlandı."}
     };
 
       
